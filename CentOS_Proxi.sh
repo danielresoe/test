@@ -192,7 +192,7 @@ EOF
 
 bash /etc/rc.local
 
-squid_yukle && && proxy_txt && jq_yukle && file_io_yukle
+squid_yukle && proxy_txt && jq_yukle && file_io_yukle
 
 echo -e "\n$sari IPv4   Proxy »$yesil ${IP4}:${IPV4_PORT}:${KULLANICI}:${SIFRE}$renkreset"
 
